@@ -1,4 +1,4 @@
-![logo](https://github.com/Saifuddin27/Saifuddin27/blob/main/pxfuel.jpg)
+![logo](https://github.com/Saifuddin27/Saifuddin27/blob/main/IMG_20231030_214426.jpg)
 <h1 align="center">Hi 👋, I'm Saifuddin</h1>
 <h3 align="center">A passionate data enthusiast from India</h3>
 
