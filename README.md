@@ -1,3 +1,4 @@
+![logo](https://github.com/Saifuddin27/Saifuddin27/blob/main/e02677625d9aad62e180f434d7fbd1b5.jpg)
 <h1 align="center">Hi 👋, I'm Saifuddin</h1>
 <h3 align="center">A passionate data enthusiast from India</h3>
 
